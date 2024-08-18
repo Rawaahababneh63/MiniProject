@@ -271,6 +271,11 @@
     <Content Include="Content\images\video-image.jpg" />
     <Content Include="Content\images\visa-icon.jpg" />
     <Content Include="Content\img\1.jpg" />
+    <Content Include="Content\img\12.jpg" />
+    <Content Include="Content\img\13.jpg" />
+    <Content Include="Content\img\14.jpg" />
+    <Content Include="Content\img\16.jpg" />
+    <Content Include="Content\img\19.jpg" />
     <Content Include="Content\img\2.jpg" />
     <Content Include="Content\img\3.jpg" />
     <Content Include="Content\img\3.png" />
@@ -334,13 +339,11 @@
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\User\Index.cshtml" />
     <Content Include="Views\User\Login.cshtml" />
-    <Content Include="Views\User\ProfileUser.cshtml" />
     <Content Include="Views\Categories\Delete.cshtml" />
     <Content Include="Views\Categories\Details.cshtml" />
     <Content Include="Views\Categories\Edit.cshtml" />
@@ -367,6 +370,7 @@
     <None Include="packages.config" />
     <Content Include="Views\Shared\_LayoutPage1.cshtml" />
     <Content Include="Views\User\Register.cshtml" />
+    <Content Include="Views\User\ProfileUser.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

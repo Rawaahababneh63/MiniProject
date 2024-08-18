@@ -1,11 +1,11 @@
 ﻿@model List<MiniProject.Models.Product>
 
 @{
-    ViewBag.Title = "عرض المنتجات";
+   
     Layout = "~/Views/Shared/_LayoutPage1.cshtml";
 }
 
-<h2>عرض المنتجات</h2>
+
 
 <section style="background-color: #f8f9fa;">
     <div class="container py-5">
@@ -17,10 +17,10 @@
                         <img src="@product.Image_Url" class="card-img-top" alt="@product.Name" style="object-fit: cover; height: 250px;" />
                         <div class="card-body">
                             <h5 class="mb-0">@product.Name</h5>
-                            <p class="text-muted">السعر: $@product.Price</p>
+                            <p class="text-muted">Price: $@product.Price</p>
                             <div class="d-flex justify-content-between">
-                                <a href="@Url.Action("DisplayProductsDetails", "Products", new { id = product.ID })" class="btn btn-primary mt-3">عرض التفاصيل</a>
-                                <a href="@Url.Action("DisplayProduct", "Products", new { id = product.ID })" class="btn btn-secondary mt-3">اشتري الآن</a>
+                                <a href="@Url.Action("DisplayProductsDetails", "Products", new { id = product.ID })" class="btn btn-primary mt-3">More Details</a>
+                                <a href="@Url.Action("DisplayProduct", "Products", new { id = product.ID })" class="btn btn-secondary mt-3">Buy Now</a>
                             </div>
                         </div>
                     </div>
@@ -32,7 +32,7 @@
 
 <style>
     .col-md-6.col-lg-4.mb-4 {
-        width: 23.8%;
+        width: 22.8%;
     }
 
     /* لضبط النص والاتجاه إلى اليمين */

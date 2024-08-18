@@ -12,11 +12,11 @@
     <div class="product-details" style="padding: 16px;">
         <h3 style="margin: 0 0 10px; font-size: 18px; font-weight: bold;">@Model.Name</h3>
         <p style="margin: 0 0 10px; font-size: 14px; color: #666;">@Model.Discription</p>
-        <p style="margin-top: 10px; font-size: 14px; color: #333;">الكمية: @Model.Quantity_In_Stock</p>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">Quntity: @Model.Quantity_In_Stock</p>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
-            <span style="font-size: 18px; font-weight: bold; color: #333; direction: rtl; text-align: right;">السعر : @Model.Price دينار</span>
+            <span style="font-size: 18px; font-weight: bold; color: #333; direction: rtl; text-align: right;">$ @Model.Price </span>
         </div>
-        <a href="@Url.Action("Create", "Cart", new { id =Model.ID,userID = Session["ID"] })" class="btn btn-secondary mt-3">اشتري الآن</a>
+        <a href="@Url.Action("Create", "Cart", new { id =Model.ID,userID = Session["ID"] })" class="btn btn-secondary mt-3">Buy NOW</a>
     </div>
 </div>
 

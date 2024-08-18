@@ -19,6 +19,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+   
     <!-- script
     ================================================== -->
     <script src="~/Content/js/modernizr.js"></script>
@@ -70,14 +71,14 @@
                                         if (Session["IsLogin"] != null && (bool)Session["IsLogin"])
                                         {
                                             // إذا كان المستخدم مسجل دخوله
-                                            @Html.ActionLink("Profile", "Profile", "User", null, new { @class = " ", @style = "text-decoration:none; margin-right: 10px;" })
+                                            @Html.ActionLink("Profile", "ProfileUser", "User", null, new { @class = " ", @style = "text-decoration:none; margin-right: 10px;" })
                                             @Html.ActionLink("Logout", "Logout", "User", null, new { @class = "", @style = "text-decoration:none;" })
                                         }
                                         else
                                         {
                                             // إذا كان المستخدم غير مسجل دخوله
                                             @Html.ActionLink("Login", "Login", "User", null, new { @class = "", @style = "text-decoration:none; margin-right: 10px;" })
-                                        }
+                                            @Html.ActionLink("SignUp", "Register", "User", null, new { @class = "", @style = "text-decoration:none; margin-right: 10px;" }) }
                                     }
                                 </li>
                                 <li>
@@ -108,15 +109,11 @@
                                 <div id="main-nav" class="stellarnav d-flex justify-content-end right">
                                     <ul class="menu-list">
                                         <li class="menu-item has-sub">
-                                            @Html.ActionLink("Home", "Index", "Home", new { @class = "item-anchor d-flex align-item-center" })
-                                            <ul class="submenu">
-                                                <li>@Html.ActionLink("Home", "Index", "Home", new { @class = "item-anchor" })</li>
+                                            @Html.ActionLink("Home", "Index", "Home", null, new { @class = "item-anchor d-flex align-item-center" })
 
-                                            </ul>
+
                                         </li>
-                                        <li>@Html.ActionLink("About", "About", "Home", new { @class = "item-anchor" })</li>
-                                        <li>@Html.ActionLink("SignUp", "Register", "User", null, new { @class = "item-anchor" })</li>
-
+                                        <li>@Html.ActionLink("About", "About", "Home", null, new { @class = "item-anchor" })</li>
                                         @*<li class="menu-item has-sub">
                                                 @Html.ActionLink("Shop", "Shop", "Products", new { @class = "item-anchor d-flex align-item-center" })
                                                 <ul class="submenu">
@@ -150,7 +147,7 @@
                                                     <li>@Html.ActionLink("Single post", "SinglePost", "Blog", new { @class = "item-anchor" })</li>
                                                 </ul>
                                             </li>*@
-                                        <li>@Html.ActionLink("Contact", "Contact", "Home", new { @class = "item-anchor" })</li>
+                                        <li>@Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "item-anchor" })</li>
                                     </ul>
                                 </div>
                             </div>
@@ -169,6 +166,8 @@
     <script src="~/Content/js/jquery-1.11.0.min.js"></script>
     <script src="~/Content/js/plugins.js"></script>
     <script src="~/Content/js/script.js"></script>
- 
+  
+
+
 </body>
 </html>

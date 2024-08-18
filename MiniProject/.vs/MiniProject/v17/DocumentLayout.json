@@ -1,141 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|c:\\users\\orangee\\desktop\\mini\\miniproject\\miniproject\\miniproject\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\displyproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\displyproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\displayproductsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\products\\displayproductsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\displayproductsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\displayproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\displayproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|c:\\users\\orangee\\desktop\\abstore\\miniproject\\miniproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\user\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\user\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|c:\\users\\orangee\\desktop\\abstore\\miniproject\\miniproject\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\categories\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|c:\\users\\orangee\\desktop\\abstore\\miniproject\\miniproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\categories\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\products\\displayproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\displayproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\content\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\content\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|c:\\users\\orangee\\desktop\\mini\\miniproject\\miniproject\\miniproject\\views\\user\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\user\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\miniproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|c:\\users\\orangee\\desktop\\mini\\miniproject\\miniproject\\miniproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\products\\displyproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\displyproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\content\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\content\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\miniproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E84779A7-7DF7-4CCE-9A1B-9B2C990AC53D}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -146,17 +146,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MiniProject\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\UserController.cs",
               "RelativeToolTip": "MiniProject\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBIAAAAiAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwE4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T14:50:45.237Z",
               "IsPinned": true,
@@ -164,37 +164,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Content\\style.css",
+              "RelativeDocumentMoniker": "MiniProject\\Content\\style.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Content\\style.css",
+              "RelativeToolTip": "MiniProject\\Content\\style.css",
+              "ViewState": "AQIAAKsMAAAAAAAAAAAtwFoMAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-18T15:17:06.537Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisplayProductsByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:40:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\User\\Register.cshtml",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T21:19:23.024Z",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAjwIEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:06:09.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Categories\\Edit.cshtml",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T21:04:00.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Index.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Categories\\Index.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -203,216 +217,229 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Delete.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Categories\\Delete.cshtml",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAE4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T09:27:06.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Details.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Details.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Categories\\Details.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T11:29:54.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_LayoutPage1.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
-              "ViewState": "AQIAAJkAAAAAAAAAAAAAAE4AAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T16:15:56.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProfileUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\User\\ProfileUser.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\User\\ProfileUser.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\User\\ProfileUser.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\User\\ProfileUser.cshtml",
-              "ViewState": "AQIAAEwAAAAAAAAAAADwv1sAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T12:52:53.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAFkBAAAAAAAAAAAiwHMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T18:41:43.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Delete.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Products\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T11:30:10.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "Category.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Category.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Category.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Categories\\Category.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Category.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Categories\\Category.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T09:55:19.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKgBAAAAAAAAAAArwLkBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T18:41:43.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAAJUAAAAAAAAAAADwvxUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T16:15:56.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T17:06:56.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Cart\\Cart.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Cart\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Cart\\Cart.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Cart\\Cart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "DocumentIndex": 11,
+              "Title": "ProfileUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\ProfileUser.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\User\\ProfileUser.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\ProfileUser.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\User\\ProfileUser.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T08:57:19.475Z",
+              "WhenOpened": "2024-08-18T21:57:23.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DisplayProductsDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T06:53:47.043Z",
+              "WhenOpened": "2024-08-17T19:52:44.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DisplayProductsByCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Products\\DisplayProductsByCategory.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "DocumentIndex": 13,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T20:40:04.254Z",
+              "WhenOpened": "2024-08-17T17:02:14.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T11:38:12.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\User\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T10:04:13.107Z",
+              "WhenOpened": "2024-08-18T21:58:14.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAAAAAA",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T19:52:46.997Z"
+              "WhenOpened": "2024-08-18T21:19:23.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Content\\style.css",
-              "RelativeDocumentMoniker": "MiniProject\\Content\\style.css",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Content\\style.css",
-              "RelativeToolTip": "MiniProject\\Content\\style.css",
-              "ViewState": "AQIAANcDAAAAAAAAAAAAAKMDAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-18T15:17:06.537Z"
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T09:27:06.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "MiniProject\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "MiniProject\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAADgv4EAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T11:06:09.129Z"
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T21:04:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T11:29:54.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T11:30:10.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T08:57:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayProductsDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Products\\DisplayProductsDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T06:53:47.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T10:04:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -420,11 +447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\App_Start\\BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "MiniProject\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "MiniProject\\App_Start\\BundleConfig.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwCUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,11 +459,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "vendor.css",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Content\\css\\vendor.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Content\\css\\vendor.css",
               "RelativeDocumentMoniker": "MiniProject\\Content\\css\\vendor.css",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Content\\css\\vendor.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Content\\css\\vendor.css",
               "RelativeToolTip": "MiniProject\\Content\\css\\vendor.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -444,11 +471,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\App_Start\\FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "MiniProject\\App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\App_Start\\FilterConfig.cs",
               "RelativeToolTip": "MiniProject\\App_Start\\FilterConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -456,11 +483,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "MiniProject\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\CartController.cs",
               "RelativeToolTip": "MiniProject\\Controllers\\CartController.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAADwv1wAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -468,36 +495,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T19:52:44.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Products\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T11:30:57.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T11:30:57.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MiniProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MiniProject\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAIAzwBgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -505,49 +519,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "DisplyProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\DisplyProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\DisplyProduct.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\DisplyProduct.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\DisplyProduct.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\DisplyProduct.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Products\\DisplyProduct.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T11:40:06.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T11:40:06.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T17:02:14.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Products\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T12:20:15.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T12:20:15.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -558,9 +558,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Web.config",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Web.config",
               "RelativeDocumentMoniker": "MiniProject\\Web.config",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Web.config",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Web.config",
               "RelativeToolTip": "MiniProject\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAADTAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -569,15 +569,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 17,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "MiniProject\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\ABStore\\MiniProject\\MiniProject\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mini\\MiniProject\\MiniProject\\MiniProject\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "MiniProject\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAAGAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T09:19:20.436Z"
+              "WhenOpened": "2024-08-17T09:19:20.436Z",
+              "EditorCaption": ""
             }
           ]
         }
