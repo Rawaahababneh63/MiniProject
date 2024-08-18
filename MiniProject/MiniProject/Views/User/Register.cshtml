@@ -1,0 +1,148 @@
+﻿@model MiniProject.Models.User
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<section class="sign-up-section1">
+    <div class="container1">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-md-12">
+                <div class="form-container1">
+                    <div class="text-center mb-3">
+                        <img src="~/Content/img/images.png" alt="Logo" class="logo">
+                    </div>
+                    <h2 class="form-title1">Create your account</h2>
+                    <p class="text-center">"Welcome to the Professional Salon Tools website."</p>
+
+                    @using (Html.BeginForm("Register", "User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group1">
+                            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "NAME", required = "required" })
+                            @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group1">
+                            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "E-MAIL", required = "required" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group1">
+                            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label" })
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "PASSWORD", required = "required" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group1">
+                            @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label" })
+                            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", placeholder = "CONFIRM PASSWORD", required = "required" })
+                            @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group1">
+                            @Html.LabelFor(model => model.PictureProfile, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(m => m.PictureProfile, new { type = "text", @class = "form-control", placeholder = "Picture Profile" })
+                            @Html.ValidationMessageFor(m => m.PictureProfile, "", new { @class = "text-danger" })
+                        </div>
+
+
+                        <button type="submit" class="btn btn-primary1 btn-lg btn-block">Sign Up</button>
+
+                        <p class="login-link1 mt-3">Already have an account? @Html.ActionLink("Login", "Login", "User", null, new { style = "color: #ee7b8d;" })</p>
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f8e9e8;
+        margin: 0;
+        padding: 0;
+    }
+
+    .sign-up-section1 {
+        padding: 30px 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .container1 {
+        background-color: #ffffff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        max-width: 600px; /* تعديل عرض الكارد ليشمل عرض كامل */
+    }
+
+    .form-container1 {
+        padding: 40px; /* تعديل padding داخل الكارد */
+    }
+
+    .form-title1 {
+        font-size: 24px;
+        color: #ee7b8d;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .form-group1 {
+        margin-bottom: 15px; /* تقليل المسافة بين الحقول */
+    }
+
+        .form-group1 input[type="text"],
+        .form-group1 input[type="email"],
+        .form-group1 input[type="password"],
+        .form-group1 input[type="file"] {
+            width: 100%;
+            padding: 15px; /* تقليل حجم padding داخل الحقول */
+            border: 1px solid #eee;
+            border-radius: 25px;
+            background-color: #f5f5f5;
+        }
+
+        .form-group1 input::placeholder {
+            color: #ccc;
+        }
+
+        .form-group1 label {
+            font-size: 14px;
+            margin-bottom: 5px;
+            color: #777;
+        }
+
+    .btn-primary1 {
+        background-color: #ee7b8d;
+        color: #fff;
+        border: none;
+        padding: 10px; /* تقليل حجم الزر */
+        border-radius: 25px;
+        width: 100%;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .btn-primary1:hover {
+            background-color: #d66874;
+        }
+
+    .login-link1 {
+        text-align: center;
+        margin-top: 15px; /* تقليل المسافة فوق النص */
+        color: #777;
+    }
+
+        .login-link1 a {
+            color: #ee7b8d;
+            text-decoration: none;
+        }
+
+            .login-link1 a:hover {
+                text-decoration: underline;
+            }
+</style>

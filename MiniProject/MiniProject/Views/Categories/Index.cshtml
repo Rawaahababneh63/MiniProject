@@ -1,0 +1,68 @@
+﻿@model IEnumerable<MiniProject.Models.Category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<p>
+    @Html.ActionLink("Category New", "Category")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImgUrlCat)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImgUrlCat)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+<style>
+    .table {
+        width: 100%;
+        margin-top: 20px;
+        direction: ltr; /* الاتجاه من اليسار لليمين */
+        text-align: left;
+    }
+
+        .table th, .table td {
+            text-align: left;
+            vertical-align: middle;
+            border:1px solid gray;
+        }
+
+        .table th {
+            background-color: gainsboro;
+        }
+
+    .btn {
+        margin-right: 5px;
+    }
+
+    .table td {
+        max-width: 200px; /* تحديد عرض العمود */
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+</style>

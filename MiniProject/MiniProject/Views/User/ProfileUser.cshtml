@@ -1,0 +1,92 @@
+﻿@model MiniProject.Models.User
+
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="profile-card">
+    @if (Session["ID"] != null)
+    {
+        <div class="profile-card__image">
+            <img src="@Session["Image"]" alt="Profile Picture">
+        </div>
+        <div class="profile-card__info">
+            <p class="profile-card__name">Hello, <strong>@Session["Name"].ToString()</strong></p>
+            <div class="profile-info">
+                <p>Email: @Session["Email"]</p>
+                <p>Location: @Session["Location"]</p>
+                <p>Last Login: @Session["LastLogin"]</p>
+            </div>
+        </div>
+    }
+    else
+    {
+        <p>Hello, Guest</p>
+    }
+</div>
+<br />
+<br />
+<br />
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-image: url('/Content/img/b11.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin: 0;
+        padding: 0;
+    }
+
+    .profile-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        direction: ltr;
+        background: rgba(255, 255, 255, 0.8); /* Card background with transparency */
+        backdrop-filter: blur(15px); /* Apply blur effect */
+        border-radius: 15px;
+        margin: 20px;
+        width: 300px;
+        text-align: left;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%); /* Proper centering */
+    }
+
+    .profile-card__image {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+        .profile-card__image img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            border: 3px solid #ddd;
+        }
+
+    .profile-card__info {
+        padding-left: 20px;
+        text-align: left;
+    }
+
+    .profile-card__name {
+        font-size: 24px;
+        margin-bottom: 10px;
+        font-weight: bold;
+        color: #333;
+    }
+    strong {
+        font-size: 67%;
+    }
+    .profile-info p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+        color: #555;
+    }
+</style>

@@ -1,0 +1,26 @@
+﻿@model MiniProject.Models.Product
+
+@{
+    ViewBag.Title = "تفاصيل المنتج";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>تفاصيل المنتج</h2>
+
+<div class="product-card" style="width: 300px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; background-color: #fff; margin-bottom: 20px;">
+    <img src="@Model.Image_Url" alt="صورة المنتج" style="width: 100%; height: auto;">
+    <div class="product-details" style="padding: 16px;">
+        <h3 style="margin: 0 0 10px; font-size: 18px; font-weight: bold;">@Model.Name</h3>
+        <p style="margin: 0 0 10px; font-size: 14px; color: #666;">@Model.Discription</p>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">الكمية: @Model.Quantity_In_Stock</p>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
+            <span style="font-size: 18px; font-weight: bold; color: #333; direction: rtl; text-align: right;">السعر : @Model.Price دينار</span>
+        </div>
+        <a href="@Url.Action("Create", "Cart", new { id =Model.ID,userID = Session["ID"] })" class="btn btn-secondary mt-3">اشتري الآن</a>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("العودة إلى القائمة", "Index", null, new { @class = "btn btn-primary" })
+</div>
+
